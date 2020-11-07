@@ -50,6 +50,10 @@ a:hover {
   color: #EAF6F6;
 }
 
+.footer-link {
+	font-size: 1rem;
+}
+
 .intro {
   width: 30%;
   margin: auto;
